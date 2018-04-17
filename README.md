@@ -21,9 +21,9 @@ To run the Java examples, you'll need to install Maven. For more information, se
 
 ### examples
 
-- [./samples_1](./samples_1) - split examples from https://github.com/awslabs/aws-sam-local/samples
-- [./samples_2](./samples_2) - split examples from https://github.com/awslabs/serverless-application-model/examples/apps
-- [./samples_3](./samples_3) - split examples from https://github.com/awslabs/serverless-application-model/examples/2016-10-31
+- [./samples_1](./samples_1) - split examples from https://github.com/awslabs/aws-sam-local/tree/develop/samples
+- [./samples_2](./samples_2) - split examples from https://github.com/awslabs/serverless-application-model/tree/develop/examples/apps
+- [./samples_3](./samples_3) - split examples from https://github.com/awslabs/serverless-application-model/tree/develop/examples/2016-10-31
 
 ### Recommended ##
 
