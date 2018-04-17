@@ -1,7 +1,16 @@
 # Usages
 
 ```
+$ cat auth.json
+
+{
+    "type": "TOKEN",
+    "methodArn": "arn:aws:execute-api:ap-southeast-2:123456789012:abcdefg123/dev/POST/service/version/endpoint",
+    "authorizationToken": "test"
+}
+
 $ sam local invoke --event auth.json
+
 2018/04/17 10:49:48 Successfully parsed template.yaml
 2018/04/17 10:49:48 Connected to Docker 1.35
 2018/04/17 10:49:49 Fetching lambci/lambda:nodejs8.10 image for nodejs8.10 runtime...
