@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [AWS SAM Examples](#aws-sam-examples)
+    - [Requirements](#requirements)
+    - [Examples](#examples)
+    - [Recommended](#recommended)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # AWS SAM Examples #
 
 To work with the example applications in this repository, first ensure that you've installed and configured the requirements listed below. Then follow the instructions in the README files in the application/language subdirectories.
