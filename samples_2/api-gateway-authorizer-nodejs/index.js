@@ -10,9 +10,9 @@ console.log('Loading function');
  * The apiOptions can contain an API Gateway RestApi Id, a region for the RestApi, and a
  * stage that calls should be allowed/denied for. For example
  * {
- *   restApiId: 'xxxxxxxxxx,
- *   region: 'us-east-1,
- *   stage: 'dev',
+ *     "type": "TOKEN",
+ *     "methodArn": "arn:aws:execute-api:ap-southeast-2:123456789012:abcdefg123/dev/POST/pets",
+ *     "authorizationToken": "ZGVueQo="
  * }
  *
  * const testPolicy = new AuthPolicy("[principal user identifier]", "[AWS account id]", apiOptions);
