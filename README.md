@@ -19,7 +19,7 @@ To create an Amazon S3 bucket, follow the instructions at [Create a Bucket](http
 
 To run the Java examples, you'll need to install Maven. For more information, see [Creating a .jar Deployment Package Using Maven without any IDE (Java) ](http://docs.aws.amazon.com/lambda/latest/dg/java-create-jar-pkg-maven-no-ide.html).
 
-### examples
+### Examples
 
 - [./samples_1](./samples_1) - split examples from https://github.com/awslabs/aws-sam-local/tree/develop/samples
 - [./samples_2](./samples_2) - split examples from https://github.com/awslabs/serverless-application-model/tree/develop/examples/apps
