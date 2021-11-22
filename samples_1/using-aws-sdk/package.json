@@ -4,7 +4,7 @@
   "description": "An example Serverless project that uses the AWS SDK to list S3 buckets",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.94.0"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {},
   "scripts": {
