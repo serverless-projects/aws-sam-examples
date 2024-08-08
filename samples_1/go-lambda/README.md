@@ -2,9 +2,8 @@ This is a very simple Hello World application written in Golang.
 
 ### Instructions
 
-1. Build the binary to be compatible with Linux: `GOOS=linux go build main.go`
-2. Zip up the binary: `zip main.zip ./main`
-3. Invoke locally
+1. Build the binary to be compatible with Linux: `make build`
+2. Invoke locally
 ```bash
 $ echo '"world"' | sam local invoke
 
@@ -15,4 +14,3 @@ $ echo '"world"' | sam local invoke
 "Hello world!"
 
 ```
-
